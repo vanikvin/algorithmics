@@ -1,2 +1,1 @@
-"# algorithmics" 
-"# algorithmics" 
+homework week 1
